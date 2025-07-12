@@ -3,10 +3,10 @@ Python Project Repository
       This repository contains three beginner-to-intermediate Python projects covering data analysis, machine learning, and image processing.
 
 🔹 Project 1: Linear Regression
-Description:
-Implements simple linear regression using a CSV dataset with one feature and one target column. Visualizes the regression line and reports metrics like MSE and R² score.
+   Description:
+   Implements simple linear regression using a CSV dataset with one feature and one target column. Visualizes the regression line and reports metrics like MSE and R² score.
 
-Libraries:       
+   Libraries:       
    
          pandas, numpy, matplotlib, scikit-learn
 
