@@ -1,4 +1,4 @@
-Python Project Repository
+Python Projects
 
       This repository contains three beginner-to-intermediate Python projects covering data analysis, machine learning, and image processing.
 
@@ -8,7 +8,7 @@ Implements simple linear regression using a CSV dataset with one feature and one
 
 Libraries:       
    
-      pandas, numpy, matplotlib, scikit-learn
+         pandas, numpy, matplotlib, scikit-learn
 
 🔹 Project 2: Data Analysis
 
@@ -26,5 +26,6 @@ Libraries:
         
          Pillow
 
-📌 Conclusion
+Conclusion
+
 These projects demonstrate key concepts in Python across data science and utility programming. Ideal for learning EDA, regression modeling, and file handling with practical code examples.
