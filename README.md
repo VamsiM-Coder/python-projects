@@ -8,7 +8,7 @@ Implements simple linear regression using a CSV dataset with one feature and one
 
 Libraries:       
    
-         pandas, numpy, matplotlib, scikit-learn
+         pandas        numpy         matplotlib         scikit-learn
 
 🔹 Project 2: Data Analysis
 
@@ -16,7 +16,7 @@ Performs exploratory data analysis (EDA) including data cleaning, statistical su
 
 Libraries:
         
-         pandas, numpy, matplotlib, seaborn
+         pandas        numpy         matplotlib         seaborn
 
 🔹 Project 3: Image Converter
 
